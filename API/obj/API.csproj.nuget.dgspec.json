@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aspCore\\Reactivities\\api\\API.csproj": {}
+    "C:\\aspCore\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\aspCore\\Reactivities\\api\\API.csproj": {
+    "C:\\aspCore\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aspCore\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\aspCore\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\aspCore\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\aspCore\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ssharqawi\\.nuget\\packages\\",
-        "outputPath": "C:\\aspCore\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\aspCore\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
