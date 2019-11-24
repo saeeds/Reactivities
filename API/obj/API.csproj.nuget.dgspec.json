@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aspCore\\Reactivities\\API\\API.csproj": {}
+    "C:\\aspCore\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\aspCore\\Reactivities\\API\\API.csproj": {
+    "C:\\aspCore\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aspCore\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\aspCore\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\aspCore\\Reactivities\\API\\API.csproj",
+        "projectPath": "C:\\aspCore\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ssharqawi\\.nuget\\packages\\",
-        "outputPath": "c:\\aspCore\\Reactivities\\API\\obj\\",
+        "outputPath": "C:\\aspCore\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "c:\\aspCore\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "c:\\aspCore\\Reactivities\\Application\\Application.csproj"
+              "C:\\aspCore\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\aspCore\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "c:\\aspCore\\Reactivities\\Application\\Application.csproj": {
+    "C:\\aspCore\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aspCore\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\aspCore\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\aspCore\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "C:\\aspCore\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\ssharqawi\\.nuget\\packages\\",
-        "outputPath": "c:\\aspCore\\Reactivities\\Application\\obj\\",
+        "outputPath": "C:\\aspCore\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -88,11 +88,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "c:\\aspCore\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\aspCore\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj"
               },
-              "c:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "c:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "c:\\aspCore\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aspCore\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\aspCore\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ssharqawi\\.nuget\\packages\\",
-        "outputPath": "c:\\aspCore\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\aspCore\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -180,14 +180,14 @@
         }
       }
     },
-    "c:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "c:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\aspCore\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\ssharqawi\\.nuget\\packages\\",
-        "outputPath": "c:\\aspCore\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "C:\\aspCore\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -201,8 +201,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "c:\\aspCore\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\aspCore\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
