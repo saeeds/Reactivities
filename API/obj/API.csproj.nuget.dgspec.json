@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aspCore\\Reactivities\\APi\\API.csproj": {}
+    "C:\\aspCore\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\aspCore\\Reactivities\\APi\\API.csproj": {
+    "C:\\aspCore\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aspCore\\Reactivities\\APi\\API.csproj",
+        "projectUniqueName": "C:\\aspCore\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\aspCore\\Reactivities\\APi\\API.csproj",
+        "projectPath": "C:\\aspCore\\Reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\ssharqawi\\.nuget\\packages\\",
-        "outputPath": "C:\\aspCore\\Reactivities\\APi\\obj\\",
+        "outputPath": "C:\\aspCore\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -80,13 +80,13 @@
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {
               "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj"
@@ -104,8 +104,12 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
           "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.5.1, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "(, )"
@@ -122,7 +126,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
@@ -143,13 +147,13 @@
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -160,7 +164,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -172,7 +176,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
@@ -193,13 +197,13 @@
           "C:\\Users\\ssharqawi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {
               "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\aspCore\\Reactivities\\Domain\\Domain.csproj"
@@ -214,7 +218,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -240,7 +244,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
