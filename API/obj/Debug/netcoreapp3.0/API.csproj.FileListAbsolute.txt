@@ -68,3 +68,7 @@ C:\aspCore\Reactivities\api\bin\Debug\netcoreapp3.0\Infrastructure.pdb
 C:\aspCore\Reactivities\api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\aspCore\Reactivities\api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
 C:\aspCore\Reactivities\api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\aspCore\Reactivities\API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\aspCore\Reactivities\API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\aspCore\Reactivities\API\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\aspCore\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
